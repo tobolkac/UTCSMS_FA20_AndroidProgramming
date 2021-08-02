@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">FCIntent</string>
-    <string name="action_settings">Settings</string>
-    <string name="lower_guess_bound"><![CDATA[0 <=]]></string>
-    <string name="upper_guess_bound"><![CDATA[<= 100]]></string>
-    <string name="guess_hint"></string>
-</resources>
